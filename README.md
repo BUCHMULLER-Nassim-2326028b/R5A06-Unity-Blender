@@ -34,7 +34,7 @@ Pour gagner, vous devez trouver **4 Orbes d'Argent** :
 
 1.  Clonez ce dépôt :
     ```bash
-    git clone [https://github.com/votre-username/RobotWorld.git](https://github.com/votre-username/RobotWorld.git)
+    git clone [https://github.com/BUCHMULLER-Nassim-2326028b/RobotWorld.git](https://github.com/BUCHMULLER-Nassim-2326028b/RobotWorld.git)
     ```
 2.  Ouvrez le projet avec **Unity Hub** (Version recommandée : 2022.x ou supérieure).
 3.  Ouvrez la scène principale dans `Assets/Scenes`.

@@ -1,0 +1,14 @@
+Modèle de robot:
+https://poly.pizza/m/QCm7qe9uNJ
+
+Modèle de clé (modifié) :
+https://assetstore.unity.com/packages/3d/props/rust-key-167590
+
+Modèles d'arbres :
+https://www.turbosquid.com/3d-models/6-trees-collection-1750898
+
+Coffre :
+https://sketchfab.com/3d-models/treasure-chest-7839f2b421a54566bcc8cfdc874633b3#download
+
+Ennemis:
+https://sketchfab.com/3d-models/low-poly-robot-scorpion-fa43c044b78445468fe2af0b78a2e899
